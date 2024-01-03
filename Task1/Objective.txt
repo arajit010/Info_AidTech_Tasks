@@ -1,0 +1,10 @@
+Task 1: Create a password generator
+
+Create a password generator program that generates a secure, random password based on user-defined criteria. The user should be able to specify the length of the password, the character sets to include (e.g., uppercase, lowercase, numbers, special characters), and any other options or constraints.
+
+Steps to create the project:
+
+Plan the layout and design of the password generator program, including the input fields for user-defined criteria and the output field to display the generated password.
+Use Java to write the program code for the password generator, including functions to generate random characters based on user-defined criteria, and concatenate them to create the final password.
+Add error handling to handle invalid input, such as non-numeric values for password length or unsupported character sets.
+Test the program for functionality, usability, and security, ensuring that the generated passwords are secure and meet the user-defined criteria.
