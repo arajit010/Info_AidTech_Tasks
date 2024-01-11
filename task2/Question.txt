@@ -1,0 +1,7 @@
+Task 2: Temperature Conversion Utility
+Create a temperature conversion utility program that converts temperatures between different units, such as Celsius, Fahrenheit, and Kelvin. The program should take user input for the temperature value and unit, and prompt the user to select the desired output unit. The program should then calculate and display the converted temperature.
+Steps to create the project:
+1. Plan the layout and design of the temperature conversion utility program, including the input fields for the temperature value and unit, and the output field to display the converted temperature.
+2. Use Java to write the program code for the temperature conversion, including functions to perform the conversion based on user-defined input and output units.
+3. Add error handling to handle invalid input, such as non-numeric values for temperature value or unsupported temperature units.
+4. Test the program for functionality, usability, and accuracy, ensuring that the converted temperatures are correct and meet user expectations.
